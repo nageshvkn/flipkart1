@@ -1,5 +1,7 @@
 public class Login
 {
-	public static void main()
-sfsfsf
+	public static void main(String args[])
+	{
+		System.out.println("slfjlsjlf")
+	}
 }
