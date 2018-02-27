@@ -1,4 +1,4 @@
-public class Pwd
+public class PWD
 {
-
+	public static void main()
 }
