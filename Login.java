@@ -2,7 +2,7 @@
 {
 	public static void main(String args[])
 	{
-		int height = 200;
+		int height = 300;
 		System.out.println("Hello class class!")
 	}
 }
